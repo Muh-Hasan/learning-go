@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learning-go/topics"
+	"learning-go/2025/topics"
 )
 
 func main() {
